@@ -162,6 +162,15 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>New_Field_6__c</fullName>
+        <encrypted>false</encrypted>
+        <externalId>false</externalId>
+        <label>New Field 6</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
