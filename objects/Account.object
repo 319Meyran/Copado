@@ -241,18 +241,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <listViews>
-        <fullName>AccountsTest</fullName>
-        <columns>ACCOUNT.NAME</columns>
-        <columns>ACCOUNT.ADDRESS1_STATE</columns>
-        <columns>ACCOUNT.PHONE1</columns>
-        <columns>ACCOUNT.TYPE</columns>
-        <columns>CORE.USERS.ALIAS</columns>
-        <columns>ACCOUNT.EMPLOYEES</columns>
-        <columns>SIC_DESC</columns>
-        <filterScope>Everything</filterScope>
-        <label>AccountsTest</label>
-    </listViews>
-    <listViews>
         <fullName>AllAccounts</fullName>
         <columns>ACCOUNT.NAME</columns>
         <columns>ACCOUNT.ADDRESS1_STATE</columns>
@@ -292,7 +280,7 @@
         <active>true</active>
         <errorConditionFormula>IF ( Name = &apos;Test&apos;, true, false )</errorConditionFormula>
         <errorDisplayField>Name</errorDisplayField>
-        <errorMessage>Change in Branch</errorMessage>
+        <errorMessage>Change in Branch 2</errorMessage>
     </validationRules>
     <webLinks>
         <fullName>GoogleMaps</fullName>
