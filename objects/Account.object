@@ -292,7 +292,7 @@
         <active>true</active>
         <errorConditionFormula>IF ( Name = &apos;Test&apos;, true, false )</errorConditionFormula>
         <errorDisplayField>Name</errorDisplayField>
-        <errorMessage>Change in Dev Branch</errorMessage>
+        <errorMessage>Change in Branch</errorMessage>
     </validationRules>
     <webLinks>
         <fullName>GoogleMaps</fullName>
