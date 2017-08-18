@@ -123,7 +123,7 @@
         <defaultValue>false</defaultValue>
         <description>Test Description</description>
         <externalId>false</externalId>
-        <inlineHelpText>Test Help Text</inlineHelpText>
+        <inlineHelpText>Test Help Text Update</inlineHelpText>
         <label>New Field 1</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
@@ -133,7 +133,7 @@
         <defaultValue>false</defaultValue>
         <description>test 2</description>
         <externalId>false</externalId>
-        <inlineHelpText>test 2</inlineHelpText>
+        <inlineHelpText>test 2 update</inlineHelpText>
         <label>New Field 2</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
